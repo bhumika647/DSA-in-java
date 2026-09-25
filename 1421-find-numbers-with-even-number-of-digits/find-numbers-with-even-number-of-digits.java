@@ -3,16 +3,23 @@ class Solution {
 
         int count = 0;
 
+          //for (int num : nums) {
+
+            //int digits = 0;
+
+            //while (num > 0) {
+              //  num = num / 10;
+                //digits++;
+            //}
+
+        //     if (digits % 2 == 0) {
+        //         count++;
+        //     }
+        // }
         for (int num : nums) {
+            String str = String.valueOf(num);
 
-            int digits = 0;
-
-            while (num > 0) {
-                num = num / 10;
-                digits++;
-            }
-
-            if (digits % 2 == 0) {
+            if (str.length() % 2 == 0) {
                 count++;
             }
         }
