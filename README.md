@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
