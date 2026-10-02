@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhumika647/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhumika647/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhumika647/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhumika647/DSA-in-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bhumika647/DSA-in-java/tree/master/0058-length-of-last-word) |
