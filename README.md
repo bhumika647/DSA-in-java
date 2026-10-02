@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhumika647/DSA-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhumika647/DSA-in-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0709-to-lower-case](https://github.com/bhumika647/DSA-in-java/tree/master/0709-to-lower-case) |
+| [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
