@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/bhumika647/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/bhumika647/DSA-in-java/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/bhumika647/DSA-in-java/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/bhumika647/DSA-in-java/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
