@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhumika647/DSA-in-java/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/bhumika647/DSA-in-java/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
@@ -94,4 +95,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
