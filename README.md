@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/bhumika647/DSA-in-java/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/bhumika647/DSA-in-java/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
