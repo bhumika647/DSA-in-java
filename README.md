@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/bhumika647/DSA-in-java/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhumika647/DSA-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/bhumika647/DSA-in-java/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/bhumika647/DSA-in-java/tree/master/1528-shuffle-string) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
