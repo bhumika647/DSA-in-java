@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bhumika647/DSA-in-java/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
