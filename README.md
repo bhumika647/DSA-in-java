@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/bhumika647/DSA-in-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/bhumika647/DSA-in-java/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/bhumika647/DSA-in-java/tree/master/1424-diagonal-traverse-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/bhumika647/DSA-in-java/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1424-diagonal-traverse-ii](https://github.com/bhumika647/DSA-in-java/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/bhumika647/DSA-in-java/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
 |  |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/bhumika647/DSA-in-java/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
