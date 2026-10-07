@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/bhumika647/DSA-in-java/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/bhumika647/DSA-in-java/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/bhumika647/DSA-in-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/bhumika647/DSA-in-java/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/bhumika647/DSA-in-java/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/bhumika647/DSA-in-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/bhumika647/DSA-in-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumika647/DSA-in-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Breadth-First Search
 |  |
