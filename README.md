@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhumika647/DSA-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/bhumika647/DSA-in-java/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhumika647/DSA-in-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
