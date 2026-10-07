@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/bhumika647/DSA-in-java/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bhumika647/DSA-in-java/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/bhumika647/DSA-in-java/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/bhumika647/DSA-in-java/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhumika647/DSA-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/bhumika647/DSA-in-java/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1816-truncate-sentence](https://github.com/bhumika647/DSA-in-java/tree/master/1816-truncate-sentence) |
@@ -103,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/bhumika647/DSA-in-java/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/bhumika647/DSA-in-java/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/bhumika647/DSA-in-java/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
