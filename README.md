@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/bhumika647/DSA-in-java/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/bhumika647/DSA-in-java/tree/master/1389-create-target-array-in-the-given-order) |
 | [1424-diagonal-traverse-ii](https://github.com/bhumika647/DSA-in-java/tree/master/1424-diagonal-traverse-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhumika647/DSA-in-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/bhumika647/DSA-in-java/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
+| [1389-create-target-array-in-the-given-order](https://github.com/bhumika647/DSA-in-java/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/bhumika647/DSA-in-java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1929-concatenation-of-array) |
 ## Sorting
