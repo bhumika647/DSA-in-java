@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/bhumika647/DSA-in-java/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bhumika647/DSA-in-java/tree/master/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/bhumika647/DSA-in-java/tree/master/0661-image-smoother) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bhumika647/DSA-in-java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhumika647/DSA-in-java/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/bhumika647/DSA-in-java/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bhumika647/DSA-in-java/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhumika647/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/bhumika647/DSA-in-java/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/bhumika647/DSA-in-java/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bhumika647/DSA-in-java/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/bhumika647/DSA-in-java/tree/master/1732-find-the-highest-altitude) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
