@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/bhumika647/DSA-in-java/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/bhumika647/DSA-in-java/tree/master/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/bhumika647/DSA-in-java/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/bhumika647/DSA-in-java/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bhumika647/DSA-in-java/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/bhumika647/DSA-in-java/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhumika647/DSA-in-java/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bhumika647/DSA-in-java/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/bhumika647/DSA-in-java/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/bhumika647/DSA-in-java/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/bhumika647/DSA-in-java/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
