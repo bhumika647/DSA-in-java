@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,4 +165,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
