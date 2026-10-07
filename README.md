@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/bhumika647/DSA-in-java/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/bhumika647/DSA-in-java/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhumika647/DSA-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/bhumika647/DSA-in-java/tree/master/1773-count-items-matching-a-rule) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/bhumika647/DSA-in-java/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1816-truncate-sentence](https://github.com/bhumika647/DSA-in-java/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumika647/DSA-in-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/bhumika647/DSA-in-java/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/bhumika647/DSA-in-java/tree/master/1528-shuffle-string) |
+| [1773-count-items-matching-a-rule](https://github.com/bhumika647/DSA-in-java/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/bhumika647/DSA-in-java/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## String Matching
