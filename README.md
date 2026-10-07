@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/bhumika647/DSA-in-java/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/bhumika647/DSA-in-java/tree/master/1572-matrix-diagonal-sum) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/bhumika647/DSA-in-java/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/bhumika647/DSA-in-java/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhumika647/DSA-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/bhumika647/DSA-in-java/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhumika647/DSA-in-java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/bhumika647/DSA-in-java/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -218,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/bhumika647/DSA-in-java/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/bhumika647/DSA-in-java/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
