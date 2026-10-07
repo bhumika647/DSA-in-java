@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/bhumika647/DSA-in-java/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/bhumika647/DSA-in-java/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/bhumika647/DSA-in-java/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/bhumika647/DSA-in-java/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
