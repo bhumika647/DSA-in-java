@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/bhumika647/DSA-in-java/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumika647/DSA-in-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/bhumika647/DSA-in-java/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/bhumika647/DSA-in-java/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bhumika647/DSA-in-java/tree/master/1773-count-items-matching-a-rule) |
@@ -174,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumika647/DSA-in-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumika647/DSA-in-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
