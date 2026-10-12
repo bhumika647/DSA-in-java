@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumika647/DSA-in-java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/bhumika647/DSA-in-java/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bhumika647/DSA-in-java/tree/master/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/bhumika647/DSA-in-java/tree/master/0661-image-smoother) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumika647/DSA-in-java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bhumika647/DSA-in-java/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumika647/DSA-in-java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/bhumika647/DSA-in-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumika647/DSA-in-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
