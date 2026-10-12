@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhumika647/DSA-in-java/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhumika647/DSA-in-java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bhumika647/DSA-in-java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhumika647/DSA-in-java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/bhumika647/DSA-in-java/tree/master/0832-flipping-an-image) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhumika647/DSA-in-java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhumika647/DSA-in-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/bhumika647/DSA-in-java/tree/master/1748-sum-of-unique-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhumika647/DSA-in-java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/bhumika647/DSA-in-java/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumika647/DSA-in-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhumika647/DSA-in-java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
