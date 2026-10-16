@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/bhumika647/DSA-in-java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhumika647/DSA-in-java/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhumika647/DSA-in-java/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/bhumika647/DSA-in-java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhumika647/DSA-in-java/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/bhumika647/DSA-in-java/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
