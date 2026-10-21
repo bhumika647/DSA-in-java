@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/bhumika647/DSA-in-java/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/bhumika647/DSA-in-java/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/bhumika647/DSA-in-java/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
 | ------- |
