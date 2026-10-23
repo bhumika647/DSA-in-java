@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhumika647/DSA-in-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhumika647/DSA-in-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/bhumika647/DSA-in-java/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/bhumika647/DSA-in-java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhumika647/DSA-in-java/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhumika647/DSA-in-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/bhumika647/DSA-in-java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bhumika647/DSA-in-java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhumika647/DSA-in-java/tree/master/0344-reverse-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bhumika647/DSA-in-java/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/bhumika647/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumika647/DSA-in-java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bhumika647/DSA-in-java/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/bhumika647/DSA-in-java/tree/master/1051-height-checker) |
 ## Prefix Sum
 |  |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/bhumika647/DSA-in-java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhumika647/DSA-in-java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
