@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/bhumika647/DSA-in-java/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhumika647/DSA-in-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/bhumika647/DSA-in-java/tree/master/2409-count-days-spent-together) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/bhumika647/DSA-in-java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhumika647/DSA-in-java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3886-sum-of-sortable-integers](https://github.com/bhumika647/DSA-in-java/tree/master/3886-sum-of-sortable-integers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/bhumika647/DSA-in-java/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bhumika647/DSA-in-java/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/bhumika647/DSA-in-java/tree/master/1816-truncate-sentence) |
+| [2409-count-days-spent-together](https://github.com/bhumika647/DSA-in-java/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/bhumika647/DSA-in-java/tree/master/2942-find-words-containing-character) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bhumika647/DSA-in-java/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
