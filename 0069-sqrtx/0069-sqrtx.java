@@ -10,7 +10,7 @@ class Solution {
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
-            // Use division to avoid integer overflow
+           
             if (mid <= x / mid) {
                 ans = mid;
                 left = mid + 1;
