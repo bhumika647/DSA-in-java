@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bhumika647/DSA-in-java/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/bhumika647/DSA-in-java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhumika647/DSA-in-java/tree/master/0119-pascals-triangle-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/bhumika647/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumika647/DSA-in-java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhumika647/DSA-in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
