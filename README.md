@@ -316,4 +316,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/bhumika647/DSA-in-java/tree/master/0176-second-highest-salary) |
+| [1757-recyclable-and-low-fat-products](https://github.com/bhumika647/DSA-in-java/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
