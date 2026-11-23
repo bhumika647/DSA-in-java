@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhumika647/DSA-in-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika647/DSA-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/bhumika647/DSA-in-java/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhumika647/DSA-in-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/bhumika647/DSA-in-java/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/bhumika647/DSA-in-java/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/bhumika647/DSA-in-java/tree/master/1572-matrix-diagonal-sum) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/bhumika647/DSA-in-java/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhumika647/DSA-in-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumika647/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhumika647/DSA-in-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhumika647/DSA-in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
